@@ -1,10 +1,10 @@
-# 🛠️ toolkit.py — Encoder/Decoder CLI
+#  toolkit.py — Encoder/Decoder CLI
 
 A simple command‑line toolkit for Linux that lets you convert, encode, decode, hash, encrypt, and inspect data in many formats.
 
 ---
 
-## ✨ Features
+##  Features
 - Conversions: ASCII ↔ Text ↔ Binary ↔ Hex, Unicode / UTF‑8 / UTF‑16
 - Base Encoders/Decoders: Base64 / Base32 / Base58 / Base85 / UUencode / Base91
 - Crypto: AES‑256 (CBC, CTR, GCM), RSA key generation, encrypt/decrypt, sign/verify
@@ -23,7 +23,7 @@ Outputs are human‑readable strings; binary output can be requested with --outp
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 Run with Python 3:
 
